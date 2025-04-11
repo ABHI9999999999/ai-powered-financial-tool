@@ -1,5 +1,7 @@
 # AI-Powered Financial Tool 💰🤖
 
+**Live Demo**: https://ai-powered-financial-tool-eegvnowwhxasbhnx9ir8bc.streamlit.app/
+
 This project is an AI-based financial simulator that helps users better understand their finances, visualize future outcomes, and plan smarter. Built during a hackathon, the tool promotes financial awareness by using real data and intelligent suggestions.
 
 ---
